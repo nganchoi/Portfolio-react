@@ -66,7 +66,7 @@ function Projects() {
               imgPath={Weather}
               isBlog={false}
               title="Weather-web"
-              description="このウェブサイトはReactで書かれており、https://openweathermap.org/apiのAPIを使用して、APIに従って国別の天気を表示しています。"
+              description="このウェブサイトはReactで書かれておりopenweatherのAPIを使用して、APIに従って国別の天気を表示しています。"
               ghLink="https://github.com/nganchoi/weather-app-ms"
               demoLink="https://weather-web-appms.netlify.app"
             />
