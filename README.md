@@ -1,9 +1,9 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="/" target="_blank">Ngan</a>
+  <a href="/https://github.com/nganchoi/Portfolio-react" target="_blank">Ngan</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="/" />
+  <img alt="Demo" src="./src/Assets/Demo.png" />
 </div>
 
 <br/>
@@ -14,7 +14,7 @@
 
 ## Built With
 
-My personal portfolio <a href="/" target="_blank">Ngan</a><br/>
+My personal portfolio <a href="/https://github.com/nganchoi/Portfolio-react" target="_blank">Ngan</a><br/>
 
 This project was built using these technologies.
 
