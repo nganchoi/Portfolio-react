@@ -12,13 +12,16 @@ function AboutCard() {
             <strong class="turquoise">NGAN</strong>
             で 、ベトナムから来ました。
             <br />
-            _ 2017/07:
+            <strong class="turquoise">_ 2017/07:</strong>{" "}
             ベトナムで教育専攻の大学を卒業し、その後、2年間専門分野で働いた後、自分にとって新しい方向を見つけたいと思いました。
             <br />
-            - 2021/12/01: 仕事と勉強のために日本に来ることを選びました。
+            <strong class="turquoise">- 2021/12/01:</strong>{" "}
+            仕事と勉強のために日本に来ることを選びました。
             <br />
-            - 2022/07: 日本語能力試験N3の資格を取得しました。
-            <br />- 2022/12:
+            <strong class="turquoise">- 2022/07:</strong>{" "}
+            日本語能力試験N3の資格を取得しました。
+            <br />
+            <strong class="turquoise">- 2022/12:</strong>{" "}
             私はITに非常に興味があり、自分に合った仕事を見つけたいので、MINDX
             TECHNOLOGY SCHOOLでオンラインコースを受講し始めました。
             <br />
